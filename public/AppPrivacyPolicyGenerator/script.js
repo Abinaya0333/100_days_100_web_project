@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
             md += `We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These providers may use cookies or similar tracking technologies.\n\n`;
         }
 
-        md += `## 3. Contact Us\n\n`;
+        md += `## 3. Contact\n\n`;
         md += `If you have any questions about this Privacy Policy, please contact us:\n`;
         md += `* By email: ${data.contactEmail}\n`;
 
@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", () => {
             html += `<p>We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These providers may use cookies or similar tracking technologies.</p>\n`;
         }
 
-        html += `<h2>3. Contact Us</h2>\n`;
+        html += `<h2>3. Contact</h2>\n`;
         html += `<p>If you have any questions about this Privacy Policy, please contact us:</p>\n`;
         html += `<ul>\n<li>By email: <a href="mailto:${data.contactEmail}">${data.contactEmail}</a></li>\n</ul>\n`;
 

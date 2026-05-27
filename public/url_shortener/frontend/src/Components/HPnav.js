@@ -50,7 +50,7 @@ export default function HPnav({ status }) {
             </a>
 
             <a href="/contact" target="_blank"  rel="noreferrer" className="text-zinc-400 text-sm hover:text-white transition-colors">
-              contact us 
+              contact
             </a>
 
 
